@@ -1,0 +1,10 @@
+body {
+    background: lightyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    text-align: center;
+    color: rgb(93, 173, 199);
+    font-size: 30px;
+}
